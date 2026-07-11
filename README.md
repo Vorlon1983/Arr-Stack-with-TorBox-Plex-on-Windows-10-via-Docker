@@ -989,4 +989,4 @@ New-NetFirewallRule -DisplayName "TorBoxarr" -Direction Inbound -Protocol TCP -L
 - [Pulsarr](https://github.com/jamcalli/Pulsarr)
 - [TorBox](https://torbox.app)
 - [LinuxServer.io Docker Images](https://linuxserver.io)
-- [itzg Minecraft Server](https://github.com/itzg/docker-minecraft-server)
+
